@@ -4,6 +4,6 @@ import ReactDOM from "react-dom";
 
 //Store
 ReactDOM.render(
-  <h1>React Basic Start UP Structure</h1>,
+  <h1>Hello world</h1>,
   document.querySelector(".container")
 );
